@@ -1,2 +1,2 @@
 # cricket-data-analysis
-This repository contains an end-to-end cricket data analysis project using Python for web scraping and data processing, and Power BI for creating an interactive dashboard. The project demonstrates skills in data collection, cleaning, visualization, and insights generation.
+An end-to-end cricket data analysis project using Python and Power BI. The project involves web scraping cricket data, processing it using Python, and building an interactive dashboard in Power BI to derive insights on player and match performance.
