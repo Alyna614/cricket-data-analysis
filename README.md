@@ -1,4 +1,5 @@
 **Project Overview**
+
 The aim of this project was to use data analytics techniques to evaluate and recommend the optimal playing 11 for the ICC Cricket World Cup 2022. By applying web scraping, data transformation, and visual analytics, this project provided valuable insights for team selection. The data was sourced from the ESPN Cricinfo website and analyzed using Python and Power BI to generate actionable recommendations for team strategy.
 
 **Key Steps**
