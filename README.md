@@ -2,7 +2,8 @@
 
 The aim of this project was to use data analytics techniques to evaluate and recommend the optimal playing 11 for the ICC Cricket World Cup 2022. By applying web scraping, data transformation, and visual analytics, this project provided valuable insights for team selection. The data was sourced from the ESPN Cricinfo website and analyzed using Python and Power BI to generate actionable recommendations for team strategy.
 
-**Key Steps**
+**.Key Steps**
+
 1. Web Scraping Data from ESPN Cricinfo
 🚀 Leveraged Bright Data (formerly Luminati) to scrape detailed match statistics, player performances, and tournament data from the ESPN Cricinfo website.
 📊 Data collected included:
@@ -31,12 +32,14 @@ Team requirements
 🎯 The goal was to optimize the team’s chances of success in the ICC Cricket World Cup 2022.
 
 **Technologies Used:**
+
 🌐 Web Scraping: Bright Data (Third-party Web Scraper)
 🧑‍💻 Programming Language: Python
 🧑‍🔬 Data Manipulation: Pandas
 📊 Data Visualization: Power BI
 
 **Project Outcomes:**
+
 📊 The Power BI dashboards provided clear, actionable insights for selectors, coaches, and cricket analysts.
 🔍 The analysis helped in identifying players who could contribute effectively to different roles.
 📈 Strategic recommendations for team composition were provided, optimizing the team’s chances of success in the ICC Cricket World Cup 2022.
