@@ -14,7 +14,9 @@ Player batting, bowling, and fielding statistics
 
 Match results and tournament progress
 
-💾 Data storage: The raw scraped data was saved in JSON format for subsequent analysis.
+💾 Data storage: 
+
+The raw scraped data was saved in JSON format for subsequent analysis.
 
 **2. Data Transformation and Preprocessing**
 
